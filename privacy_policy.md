@@ -34,7 +34,7 @@ We do not collect, process, or store personal information from or about our cust
 
 ### 2.3 How We Collect Information
 
-We collect personal information directly from our business customers and their authorized users in the course of providing our services. We may also collect limited personal information from third parties, such as service providers who assist us in delivering or supporting our services. For a list of third-party service providers that we engage with to enable our services, see our [Subprocessors List](https://www.hubblenetwork.com/subprocessors).
+We collect personal information directly from our business customers and their authorized users in the course of providing our services. We may also collect limited personal information from third parties, such as service providers who assist us in delivering or supporting our services. For a list of third-party service providers that we engage with to enable our services, see our [Subprocessors List](https://www.hubblenetwork.com/#/subprocessors).
 
 We do not use cookies or other tracking technologies to collect personal information through our website or services. Our website may use cookies for basic functions like enabling secure log-in, but these do not allow us to identify individuals.
 
